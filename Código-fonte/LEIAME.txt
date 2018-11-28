@@ -2,7 +2,7 @@ Para rodar o programa de teste do Firefly siga os seguintes passos:
 
 1 - Tenha um copilador de C++ instalado na GPU que deseja ser usada em conjunto ao módulo FIrefly;
 2 - Habilite a comunicação I2C da GPU;
-3 - Faça download da pasta acima e a extrai-a em um diretório escolhido;
+3 - Faça download das pastas acima e a extrai-as em um mesmo diretório escolhido;
 4 - Abra um terminal e vá até a pasta "...\example", localizada dentro do diretório escolhido;
 5 - Digite o comando "make";
 6 - Rode o programa de teste que será criado com o comando: "./main".
